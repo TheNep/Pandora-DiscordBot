@@ -1,8 +1,6 @@
 import discord
 from discord.ext import commands
 from utils.dataIO import fileIO
-from utils.dataIO import dataIO
-from utils.chat_formatting import inline
 from utils import checks
 import asyncio
 import os
