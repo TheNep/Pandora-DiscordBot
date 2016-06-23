@@ -6,10 +6,6 @@ import asyncio
 import os
 import time
 import sys
-import logging
-import logging.handlers
-import shutil
-import traceback
 
 token = '' #Bot Token.
 
